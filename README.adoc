@@ -1,3 +1,6 @@
+This code is a small modified version of the Liquid Crystal Library for Arduino.
+I adapted it for my use and to accept input through a 74HC595 Shift Register.
+
 = Liquid Crystal Library for Arduino =
 
 This library allows an Arduino board to control LiquidCrystal displays (LCDs) based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs.
